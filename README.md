@@ -1,5 +1,3 @@
----
-
 # **McDonald's Menu Nutrition Analysis**  
 **📊 Data Analysis Project**  
 
