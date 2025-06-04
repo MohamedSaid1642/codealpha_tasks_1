@@ -1,10 +1,3 @@
-# codealpha_tasks_1
-Code Alpha First Project (Web Scarping)
-
-
-
-Creating a **`README.md`** file for your McDonald's Menu Nutrition Analysis project is essential to explain the project's purpose, setup, and findings. Below is a structured template with all the necessary sections:
-
 ---
 
 # **McDonald's Menu Nutrition Analysis**  
